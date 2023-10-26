@@ -2,6 +2,7 @@
 This is a simple data science project for Bank note classification
 
 ## Demo
+[Screencast from 03-26-2023 09:08:55 PM.webm](https://github.com/nikisthaa/bank-note-classification/assets/135770109/5b06e370-d5f3-452a-82af-4613753eb355)
 
 
 ## System Requirements
